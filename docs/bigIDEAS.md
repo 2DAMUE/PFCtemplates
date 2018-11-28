@@ -1,6 +1,9 @@
 # Grandes ideas para Proyectos inolvidables
 
 
+Data detox
+* https://myshadow.org/train
+
 hackforgood.net
 * https://hackforgood.net/blog/
 
